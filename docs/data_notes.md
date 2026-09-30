@@ -1,0 +1,4 @@
+ - json ze spacjami i polskimi znakami oraz greckie litery
+ - ulica bywa nullem
+ - domyslna paginacja 20 
+ - wspolrzedne jako stringi

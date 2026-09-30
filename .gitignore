@@ -8,3 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+data/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# dane surowe (pliki json etc.) z API GIOŚ
+data/
+data_*_raw.json
+
+# IDE
+.vscode/
